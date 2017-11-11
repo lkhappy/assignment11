@@ -37,10 +37,12 @@ header img {
 }
 
 /**Section 1 banner**/
+.top-banner {
+	position: relative;
+}
 .top-banner img {
 	width: 100%;
 	display: block;
-	position: relative;
 }
 
 .top-banner h2, a {
